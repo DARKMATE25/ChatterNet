@@ -1,0 +1,12 @@
+@media screen and (max-width: 1000px) {
+    .GuestComp {
+        display: flex;
+        flex-direction: column;
+    }
+    .GuestComp .InnerDiv{
+        display: none;
+    }
+    .GuestComp .drawerBox{
+        display: flex;
+    }
+}
