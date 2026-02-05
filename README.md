@@ -1,9 +1,9 @@
-💬 ChatterNet – Real-Time Chat Application (v1.0)
+💬 ChatterNet – Real-Time Chat Application
 
 🔗 **Live Demo (Render – Limited Features):**
 
 👉 [https://chatternet.onrender.com/](https://chatternet.onrender.com/)
-*(Includes one-to-one chat, group chat, and guest mode)*
+*(Includes one-to-one chat, group chat, and guest mode, File & Media sharing, Video Call)*
 
 ---
 
@@ -14,7 +14,7 @@ ChatterNet is a web-based real-time chat application developed to provide fast, 
 
 ---
 
-## 🚀 Features
+## 🚀 Features 
 
 ### 🔹 Available in Live Demo (Render)
 
@@ -22,16 +22,19 @@ ChatterNet is a web-based real-time chat application developed to provide fast, 
 * Group Chat
 * Guest Mode (Anonymous Chat)
 * Real-time messaging using Socket.io
-
-### 🔹 Available in Full Project Codebase
-
-* Message Pin / Unpin
-* Edit and Delete Messages
-* Poll Creation inside chats
 * File and Media Sharing (JPG, PDF, DOC/DOCX)
+* Video Calling 
 * Group Admin Controls
 * Secure Authentication using JWT
 * Persistent message storage using MongoDB
+
+### 🔹 Available in Full Project Codebase
+
+* It includes all the above features 
+* Message Pin / Unpin
+* Edit and Delete Messages
+* Poll Creation inside chats
+* Live Voting to the polls 
 
 > **Note:** Advanced features are implemented in the project codebase and may not be available in the live demo deployment.
 
@@ -85,8 +88,8 @@ The purpose of ChatterNet is to demonstrate real-time communication, user authen
 
 ## 👨‍💻 Developer
 
-**Sahil Salian** 
-Information Technology Graduate 
+**Sahil Salian**
+Information Technology Graduate. 
 MERN Stack Developer
 
 ---
