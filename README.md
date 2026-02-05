@@ -1,14 +1,9 @@
 💬 ChatterNet – Real-Time Chat Application (v1.0)
 
 🔗 **Live Demo (Render – Limited Features):**
+
 👉 [https://chatternet.onrender.com/](https://chatternet.onrender.com/))
 *(Includes one-to-one chat, group chat, and guest mode)*
-
----
-
-## 📌 Project Version
-
-**Version:** 1.0
 
 ---
 
@@ -89,6 +84,6 @@ The purpose of ChatterNet is to demonstrate real-time communication, user authen
 
 ## 👨‍💻 Developer
 
-**Sahil Salian**
-Information Technology Graduate
+**Sahil Salian** 
+Information Technology Graduate 
 MERN Stack Developer
