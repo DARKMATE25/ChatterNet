@@ -9,8 +9,7 @@
 
 ## 🧾 Project Overview
 
-ChatterNet is a web-based real-time chat application developed to provide fast, secure, and flexible communication without forcing users to depend on a single messaging platform. The ap
-plication supports both registered and guest users and is designed using modern web technologies for real-time interaction and scalability.
+ChatterNet is a web-based real-time chat application developed to provide fast, secure, and flexible communication without forcing users to depend on a single messaging platform. The application supports both registered and guest users and is designed using modern web technologies for real-time interaction and scalability.
 
 
 ---
