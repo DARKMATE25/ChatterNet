@@ -3,9 +3,6 @@
 🔗 Live Demo (Render – Limited Features):
 👉 chatternet.onrender.com
 
-📌 Project Version
-
-Version:1.0
 
 🧾 Project Overview
 
