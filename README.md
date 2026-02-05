@@ -89,7 +89,9 @@ The purpose of ChatterNet is to demonstrate real-time communication, user authen
 ## 👨‍💻 Developer
 
 **Sahil Salian**
+
 Information Technology Graduate. 
+
 MERN Stack Developer
 
 ---
