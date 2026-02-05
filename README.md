@@ -2,20 +2,20 @@
 
 🔗 **Live Demo (Render – Limited Features):**
 
-👉 [https://chatternet.onrender.com/](https://chatternet.onrender.com/)
+👉 [https://chatternet.onrender.com/](https://chatternet.onrender.com/) 
 *(Includes one-to-one chat, group chat, and guest mode, File & Media sharing, Video Call)*
 
 ---
 
 ## 🧾 Project Overview
 
-ChatterNet is a web-based real-time chat application developed to provide fast, secure, and flexible communication without forcing users to depend on a single messaging platform. The application supports both registered and guest users and is designed using modern web technologies for real-time interaction and scalability.
+ChatterNet is a web-based real-time chat application developed to provide fast, secure, and flexible communication without forcing users to depend on a single messaging platform. The ap
+plication supports both registered and guest users and is designed using modern web technologies for real-time interaction and scalability.
 
 
 ---
 
 ## 🚀 Features 
-
 ### 🔹 Available in Live Demo (Render)
 
 * One-to-One Chat
@@ -88,10 +88,6 @@ The purpose of ChatterNet is to demonstrate real-time communication, user authen
 
 ## 👨‍💻 Developer
 
-**Sahil Salian**
-
-Information Technology Graduate. 
-
+**Sahil Salian** 
+Information Technology Graduate 
 MERN Stack Developer
-
----
