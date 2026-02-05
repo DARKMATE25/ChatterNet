@@ -3,7 +3,7 @@
 🔗 **Live Demo (Render – Limited Features):**
 
 👉 [https://chatternet.onrender.com/](https://chatternet.onrender.com/) 
-*(Includes one-to-one chat, group chat, and guest mode, File & Media sharing, Video Call)*
+*(Includes one-to-one chat, group chat, and guest mode, file & media sharing, video call)*
 
 ---
 
