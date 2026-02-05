@@ -83,11 +83,3 @@ plication supports both registered and guest users and is designed using modern 
 ## 🎯 Purpose
 
 The purpose of ChatterNet is to demonstrate real-time communication, user authentication, and scalable chat system design while offering flexibility through both registered and guest user modes.
-
----
-
-## 👨‍💻 Developer
-
-**Sahil Salian**. 
-Information Technology Graduate. 
-MERN Stack Developer
