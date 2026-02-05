@@ -1,40 +1,47 @@
 💬 ChatterNet – Real-Time Chat Application (v1.0)
 
-🔗 Live Demo (Render – Limited Features):
-👉 chatternet.onrender.com
+🔗 **Live Demo (Render – Limited Features):**
+👉 [https://chatternet.onrender.com/](https://chatternet.onrender.com/))
+*(Includes one-to-one chat, group chat, and guest mode)*
 
+---
 
-🧾 Project Overview
+## 📌 Project Version
+
+**Version:** 1.0
+
+---
+
+## 🧾 Project Overview
 
 ChatterNet is a web-based real-time chat application developed to provide fast, secure, and flexible communication without forcing users to depend on a single messaging platform. The application supports both registered and guest users and is designed using modern web technologies for real-time interaction and scalability.
 
-🚀 Features
+---
 
-🔹 Available in Live Demo (Render)
+## 🚀 Features
+
+### 🔹 Available in Live Demo (Render)
 
 * One-to-One Chat
 * Group Chat
 * Guest Mode (Anonymous Chat)
 * Real-time messaging using Socket.io
-* File and Media Sharing (JPG, PDF, DOC/DOCX)
-* Video Calling 
 
-🔹 Available in Full Project Codebase
+### 🔹 Available in Full Project Codebase
 
 * Message Pin / Unpin
 * Edit and Delete Messages
 * Poll Creation inside chats
-* One-to-One Chat
-* Group Chat
-* Guest Mode
 * File and Media Sharing (JPG, PDF, DOC/DOCX)
 * Group Admin Controls
 * Secure Authentication using JWT
 * Persistent message storage using MongoDB
 
-Note: Advanced features are implemented in the project codebase and may not be available in the live demo deployment.
+> **Note:** Advanced features are implemented in the project codebase and may not be available in the live demo deployment.
 
-🛠️ Technology Stack
+---
+
+## 🛠️ Technology Stack
 
 **Frontend**
 
@@ -55,9 +62,10 @@ Note: Advanced features are implemented in the project codebase and may not be a
 **Authentication**
 
 * JSON Web Token (JWT)
-  
 
-👤 User Modes
+---
+
+## 👤 User Modes
 
 ### Registered Users
 
@@ -71,13 +79,15 @@ Note: Advanced features are implemented in the project codebase and may not be a
 * Messages are not stored in the database
 * Chat data is removed after session ends
 
+---
 
-🎯 Purpose
+## 🎯 Purpose
 
 The purpose of ChatterNet is to demonstrate real-time communication, user authentication, and scalable chat system design while offering flexibility through both registered and guest user modes.
 
+---
 
-👨‍💻 Developer
+## 👨‍💻 Developer
 
 **Sahil Salian**
 Information Technology Graduate
